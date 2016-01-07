@@ -1,0 +1,25 @@
+<ClientConfiguration xmlns="urn:orleans">
+	<SystemStore SystemStoreType="SqlServer" DeploymentId="R5Ent-v1.0" DataConnectionString="Server=Stripes01;Database=Orleans;User ID=orleans;password=orleans;"/>
+	<!--<StatisticsProviders>
+    <Provider
+			 Type="Orleans.Providers.SqlServer.SqlStatisticsPublisher"
+			 Name="SQLStatsProvider"
+       ConnectionString="Server=Stripes01;Database=Orleans;User ID=orleans;password=orleans;" />
+  </StatisticsProviders>-->
+	<GatewayProvider ProviderType="SqlServer"/>
+	<!-- we should be gatewaying from the reliable store -->
+	<!--<Gateway Address="stripes01" Port="30000"/>-->
+	<!--
+  <Gateway Address="172.18.124.92" Port="30000"/>
+  -->
+	<!--<Statistics
+    ProviderType="SQLStatsProvider"
+    MetricsTableWriteInterval="30s" PerfCounterWriteInterval="30s" LogWriteInterval="300s" 
+    WriteLogStatisticsToTable="true" StatisticsCollectionLevel="Info"/>-->
+	<Tracing DefaultTraceLevel="Info" TraceToFile="{0}-{1}.log" TraceToConsole="false">
+		<TraceLevelOverride LogPrefix="Runtime" TraceLevel="Info"/>
+		<TraceLevelOverride LogPrefix="Grain" TraceLevel="Info"/>
+		<TraceLevelOverride LogPrefix="Application" TraceLevel="Info"/>
+		<TraceLevelOverride LogPrefix="Provider" TraceLevel="Info"/>
+	</Tracing>
+</ClientConfiguration>

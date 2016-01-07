@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrleansConfiguration xmlns="urn:orleans">
+	<Globals>
+		<StorageProviders>
+			<Provider Type="Orleans.Storage.MemoryStorage" Name="MemoryStore"/>
+			<Provider Type="Orleans.Storage.MemoryStorage" Name="PubSubStore"/>
+		</StorageProviders>
+		<!-- We are no longer using a bootstrapper to start a grain and link it to a ServiceBus-->
+		<!--
+    <BootstrapProviders>
+      <Provider Type="R5Ent.ProvingGroundGrain.ProvingGroundBootStrapper" Name="ProofActorProvider" />
+    </BootstrapProviders>
+    -->
+		<!--<SeedNode Address="" Port="11111" />-->
+		<SystemStore SystemStoreType="SqlServer" DeploymentId="R5Ent-v1.0" DataConnectionString="Server=Stripes01;Database=Orleans;User ID=orleans;password=orleans;"/>
+		<!--<StatisticsProviders>
+      <Provider
+        Type="Orleans.Providers.SqlServer.SqlStatisticsPublisher"
+        Name="SQLStatsProvider"
+        ConnectionString="Server=Stripes01;Database=Orleans;User ID=orleans;password=orleans;" />
+    </StatisticsProviders>-->
+	</Globals>
+	<Defaults>
+		<Networking Address="" Port="11111"/>
+		<ProxyingGateway Address="" Port="30000"/>
+		<Tracing DefaultTraceLevel="Warning" TraceToConsole="false" TraceToFile="false" BulkMessageLimit="1000">
+			<TraceLevelOverride LogPrefix="Runtime" TraceLevel="Warning"/>
+			<TraceLevelOverride LogPrefix="Grain" TraceLevel="Verbose"/>
+			<TraceLevelOverride LogPrefix="Application" TraceLevel="Warning"/>
+			<TraceLevelOverride LogPrefix="Provider" TraceLevel="Warning"/>
+		</Tracing>
+		<!--<Statistics
+      ProviderType="SQLStatsProvider"
+      MetricsTableWriteInterval="30s" PerfCounterWriteInterval="30s" LogWriteInterval="300s" WriteLogStatisticsToTable="true" StatisticsCollectionLevel="Info"
+      />-->
+	</Defaults>
+</OrleansConfiguration>

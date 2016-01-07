@@ -1,0 +1,406 @@
+[2016-01-07 06:00:38.902 GMT     5	INFO   	100000	AssemblyLoader.Client	]	Recursively searching for assemblies in C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService...	
+[2016-01-07 06:00:40.166 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\AutoMapper.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.229 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ElasticSearch.Diagnostics.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.538 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Elasticsearch.Net.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.541 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Essential.Diagnostics.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.546 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Harvester.Core.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.547 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Harvester.Integration.TraceListener.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.556 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Helios.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.573 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Helios.NET40.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.606 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.842 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.955 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.CodeAnalysis.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:40.975 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Data.Edm.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.005 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Data.OData.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.018 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Data.Services.Client.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.020 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.020 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.WindowsAzure.Configuration.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.042 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.WindowsAzure.Storage.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.197 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Nest.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.214 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Newtonsoft.Json.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.215 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Orleans.dll
+	* Assembly filename is excluded.	
+[2016-01-07 06:00:41.216 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\OrleansCodeGenerator.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.225 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundActorDirect.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.227 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundBrcMessages.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.227 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundQueueMessages.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.228 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundTcpServer.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.229 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundTcpServerToActor.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.229 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\R5Ent.ProvingGroundGrainInterface.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.232 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Rauland.R5TraceListeners.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.245 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Collections.Immutable.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.262 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Reflection.Metadata.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.266 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Spatial.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.276 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Threading.Tasks.Dataflow.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.293 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Topshelf.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-01-07 06:00:41.293 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\de\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.294 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\de\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.295 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\de\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.295 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\de\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.296 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\es\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.296 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\es\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.297 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\es\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.297 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\es\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.298 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\fr\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.298 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\fr\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.299 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\fr\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.299 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\fr\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.300 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\it\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.301 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\it\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.301 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\it\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.302 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\it\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.302 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ja\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.303 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ja\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.303 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ja\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.304 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ja\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.304 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ko\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.305 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ko\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.305 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ko\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.306 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ko\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.306 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ru\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.307 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ru\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.311 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ru\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.312 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ru\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.313 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hans\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.313 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hans\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.314 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.314 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hans\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.315 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hant\Microsoft.Data.Edm.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.315 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hant\Microsoft.Data.OData.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.316 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.336 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\zh-Hant\System.Spatial.resources.dll
+	* Assembly filename indicates that it is a resource assembly.	
+[2016-01-07 06:00:41.341 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\ElasticSearch.Diagnostics.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ElasticSearch.Diagnostics.dll.	
+[2016-01-07 06:00:41.344 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Elasticsearch.Net.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Elasticsearch.Net.dll.	
+[2016-01-07 06:00:41.349 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Essential.Diagnostics.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Essential.Diagnostics.dll.	
+[2016-01-07 06:00:41.353 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Harvester.Core.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Harvester.Core.dll.	
+[2016-01-07 06:00:41.357 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Harvester.Integration.TraceListener.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Harvester.Integration.TraceListener.dll.	
+[2016-01-07 06:00:41.360 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Helios.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Helios.dll.	
+[2016-01-07 06:00:41.364 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll.	
+[2016-01-07 06:00:41.366 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Microsoft.CodeAnalysis.CSharp.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.CodeAnalysis.CSharp.dll.	
+[2016-01-07 06:00:41.368 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Microsoft.CodeAnalysis.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.CodeAnalysis.dll.	
+[2016-01-07 06:00:41.373 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll.	
+[2016-01-07 06:00:41.376 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Nest.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Nest.dll.	
+[2016-01-07 06:00:41.378 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Newtonsoft.Json.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Newtonsoft.Json.dll.	
+[2016-01-07 06:00:41.379 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Orleans.dll
+	* Assembly filename is excluded.	
+[2016-01-07 06:00:41.380 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\OrleansCodeGenerator.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\OrleansCodeGenerator.dll.	
+[2016-01-07 06:00:41.384 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\OrleansProviders.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\OrleansProviders.dll.	
+[2016-01-07 06:00:41.388 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\OrleansSQLUtils.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\OrleansSQLUtils.dll.	
+[2016-01-07 06:00:41.389 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\ProvingGroundActorDirect.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundActorDirect.dll.	
+[2016-01-07 06:00:41.393 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\ProvingGroundBrcMessages.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundBrcMessages.dll.	
+[2016-01-07 06:00:41.395 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\ProvingGroundQueueMessages.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundQueueMessages.dll.	
+[2016-01-07 06:00:41.396 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\ProvingGroundTcpServer.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundTcpServer.dll.	
+[2016-01-07 06:00:41.398 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\ProvingGroundTcpServerToActor.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ProvingGroundTcpServerToActor.dll.	
+[2016-01-07 06:00:41.400 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\R5Ent.ProvingGroundGrainInterface.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\R5Ent.ProvingGroundGrainInterface.dll.	
+[2016-01-07 06:00:41.404 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Rauland.R5TraceListeners.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Rauland.R5TraceListeners.dll.	
+[2016-01-07 06:00:41.406 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\System.Collections.Immutable.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Collections.Immutable.dll.	
+[2016-01-07 06:00:41.408 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\System.Reflection.Metadata.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Reflection.Metadata.dll.	
+[2016-01-07 06:00:41.412 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\System.Threading.Tasks.Dataflow.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\System.Threading.Tasks.Dataflow.dll.	
+[2016-01-07 06:00:41.414 GMT     5	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\_PublishedApplications\ProvingGroundTcpHostService\Topshelf.dll
+	* A conflicting assembly has already been loaded from C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Topshelf.dll.	
+[2016-01-07 06:00:41.414 GMT     5	INFO   	100000	AssemblyLoader.Client	]	Loading assembly C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\OrleansProviders.dll...	
+[2016-01-07 06:00:41.420 GMT     5	INFO   	100000	AssemblyLoader.Client	]	Loading assembly C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\OrleansSQLUtils.dll...	
+[2016-01-07 06:00:41.449 GMT     5	INFO   	100000	AssemblyLoader.Client	]	2 assemblies loaded.	
+[2016-01-07 06:00:41.576 GMT     5	INFO   	100313	OutsideRuntimeClient	]	---------- Initializing OutsideRuntimeClient on Stripes03 at 172.18.124.93 Client Id = *cli/048f2ca2 ----------	
+[2016-01-07 06:00:41.610 GMT     5	INFO   	100314	OutsideRuntimeClient	]	---------- Starting OutsideRuntimeClient with runtime Version='1.1.0.0 (Release).' Config= 
+ Platform version info:
+   .NET version: 4.0.30319.34209
+   Is .NET 4.5=True
+   OS version: Microsoft Windows NT 6.2.9200.0
+   GC Type=Client GCLatencyMode=Interactive
+   Host: Stripes03
+   Processor Count: 2
+Client Configuration:
+   Config File Name: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\ClientConfiguration.xml
+   Start time: 2016-01-07 06:00:41.591 GMT
+   Gateway Provider: SqlServer
+   Gateways: Unspecified
+   Preferred Gateway Index: -1
+   GatewayListRefreshPeriod: 00:01:00
+   Azure:
+      DeploymentId: R5Ent-v1.0
+      DataConnectionString: Server=Stripes01;Database=Orleans;User ID=orleans;Password=<--SNIP-->
+   Preferred Address Family: InterNetwork
+   DNS Host Name: Stripes03
+   Client Name: Client
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides:
+         Runtime ==> Info
+         Grain ==> Info
+         Application ==> Info
+         Provider ==> Info
+     Trace to Console: False
+     Trace File Name: C:\R5Enterprise\ProvingGround\ProvingGroundTcpHostService\Client-2016-01-07-06.00.24.807Z.log
+     Write Messaging Traces: False
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: -00:00:00.0010000
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+   Messaging:
+       Response timeout: 00:00:30
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Client Sender Buckets: 8192
+       Use standard (.NET) serializer: False   [NOTE: This *MUST* match the setting on the server or nothing will work!]
+       Use fallback json serializer: False   [NOTE: This *MUST* match the setting on the server or nothing will work!]
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Use Message Batching: False
+       Max Message Batching Size: 10
+   Providers:
+       No providers configured.
+	
+[2016-01-07 06:00:43.105 GMT     5	INFO   	101309	Messaging.GatewayManager	]	Found 3 knownGateways from Gateway listProvider [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]	
+[2016-01-07 06:00:45.250 GMT     5	INFO   	100908	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.92:30000/189842224	172.18.124.93:0]	Connected to gateway at address gwy.tcp://172.18.124.92:30000/189842224 on trial 0.	
+[2016-01-07 06:00:45.260 GMT    26	INFO   	100000	Messaging.GatewayClientReceiver/gwy.tcp://172.18.124.92:30000/189842224	172.18.124.93:0]	Starting AsyncAgent Messaging.GatewayClientReceiver/gwy.tcp://172.18.124.92:30000/189842224 on managed thread 26	
+[2016-01-07 06:00:45.279 GMT    25	INFO   	100000	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.92:30000/189842224	172.18.124.93:0]	Starting AsyncAgent Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.92:30000/189842224 on managed thread 25	
+[2016-01-07 06:00:46.976 GMT     5	INFO   	100908	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.93:30000/189842382	172.18.124.93:0]	Connected to gateway at address gwy.tcp://172.18.124.93:30000/189842382 on trial 0.	
+[2016-01-07 06:00:46.979 GMT    29	INFO   	100000	Messaging.GatewayClientReceiver/gwy.tcp://172.18.124.93:30000/189842382	172.18.124.93:0]	Starting AsyncAgent Messaging.GatewayClientReceiver/gwy.tcp://172.18.124.93:30000/189842382 on managed thread 29	
+[2016-01-07 06:00:47.154 GMT    28	INFO   	100000	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.93:30000/189842382	172.18.124.93:0]	Starting AsyncAgent Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.93:30000/189842382 on managed thread 28	
+[2016-01-07 06:00:47.294 GMT     5	INFO   	100929	OutsideRuntimeClient	172.18.124.93:0]	---------- Started OutsideRuntimeClient with Global Client ID: C172.18.124.93:0:-189842441*cli/048f2ca2@939dc889, client GUID ID: *cli/048f2ca2	
+[2016-01-07 06:01:43.142 GMT     5	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:00:43 AM	
+[2016-01-07 06:02:43.158 GMT    10	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:01:43 AM	
+[2016-01-07 06:03:43.173 GMT    30	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:02:43 AM	
+[2016-01-07 06:04:43.194 GMT    30	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:03:43 AM	
+[2016-01-07 06:05:43.214 GMT     5	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:04:43 AM	
+[2016-01-07 06:05:45.270 GMT    30	INFO   	100704	ClientLogStatistics	172.18.124.93:0]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=542.000
+App.Requests.LatencyHistogram.Millis=[209.7152:419.4303]=1, [419.4304:838.8607]=1, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=2
+Client.ConnectedGatewayCount=2
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=494
+Messaging.Received.Bytes.Total.Current=2947
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=2
+Messaging.Received.Messages.From.S172.18.124.92:30000:0.Current=1
+Messaging.Received.Messages.From.S172.18.124.93:30000:0.Current=1
+Messaging.Received.Messages.Total.Current=2
+Messaging.Received.MessageSizeHistogram.Bytes=[256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=510
+Messaging.Sent.Bytes.Total.Current=604
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=2
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S172.18.124.92:30000:189842224.Current=1
+Messaging.Sent.Messages.To.S172.18.124.93:30000:189842382.Current=1
+Messaging.Sent.Messages.Total.Current=2
+Messaging.Sent.MessageSizeHistogram.Bytes=[256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=2
+Runtime.CpuUsage=3.356
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=3
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=32, gen1=11, gen2=5
+Runtime.GC.GenSizesKb=gen0=6144.00, gen1=716.82, gen2=14935.34
+Runtime.GC.LargeObjectHeapSizeKb=1131.511
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.004
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.281
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=27855
+Runtime.Memory.AvailableMemoryMb=5896
+Runtime.Memory.TotalPhysicalMemoryMb=8192
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=2
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=2
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=4
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=182
+Serialization.BufferPool.CheckedInBuffers.Current=256
+Serialization.BufferPool.CheckedOutBuffers.Current=324
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=68
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=68
+	
+[2016-01-07 06:06:43.220 GMT    21	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:05:43 AM	
+[2016-01-07 06:07:43.239 GMT     4	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:06:43 AM	
+[2016-01-07 06:08:43.256 GMT    10	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:07:43 AM	
+[2016-01-07 06:09:43.273 GMT     5	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:08:43 AM	
+[2016-01-07 06:10:43.291 GMT    24	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:09:43 AM	
+[2016-01-07 06:10:45.307 GMT    24	INFO   	100704	ClientLogStatistics	172.18.124.93:0]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=542.000
+App.Requests.LatencyHistogram.Millis=[209.7152:419.4303]=1, [419.4304:838.8607]=1, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=2
+Client.ConnectedGatewayCount=2
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=494
+Messaging.Received.Bytes.Total.Current=2947
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=2
+Messaging.Received.Messages.From.S172.18.124.92:30000:0.Current=1
+Messaging.Received.Messages.From.S172.18.124.93:30000:0.Current=1
+Messaging.Received.Messages.Total.Current=2
+Messaging.Received.MessageSizeHistogram.Bytes=[256:511]=1, [2048:4095]=1, 
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=510
+Messaging.Sent.Bytes.Total.Current=604
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=2
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.To.S172.18.124.92:30000:189842224.Current=1
+Messaging.Sent.Messages.To.S172.18.124.93:30000:189842382.Current=1
+Messaging.Sent.Messages.Total.Current=2
+Messaging.Sent.MessageSizeHistogram.Bytes=[256:511]=2, 
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=0
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=2
+Runtime.CpuUsage=3.329
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=3
+Runtime.GC.AllocatedBytesInKbPerSec=78.139
+Runtime.GC.GenCollectonCount=gen0=34, gen1=11, gen2=5
+Runtime.GC.GenSizesKb=gen0=6144.00, gen1=716.82, gen2=14935.34
+Runtime.GC.LargeObjectHeapSizeKb=1405.091
+Runtime.GC.NumberOfInducedGCs=0.000
+Runtime.GC.PercentOfTimeInGC=0.002
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.594
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=35023
+Runtime.Memory.AvailableMemoryMb=5886
+Runtime.Memory.TotalPhysicalMemoryMb=8192
+Runtime.Threads.AsynchAgent.Messaging.GatewayClientReceiver.Current=2
+Runtime.Threads.AsynchAgent.Messaging.GatewayConnection.Current=2
+Runtime.Threads.AsynchAgent.TotalThreadsCreated.Current=4
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=182
+Serialization.BufferPool.CheckedInBuffers.Current=256
+Serialization.BufferPool.CheckedOutBuffers.Current=324
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=68
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=68
+	
+[2016-01-07 06:11:27.200 GMT    10	INFO   	100908	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.91:30000/189842048	172.18.124.93:0]	Connected to gateway at address gwy.tcp://172.18.124.91:30000/189842048 on trial 0.	
+[2016-01-07 06:11:27.205 GMT    34	INFO   	100000	Messaging.GatewayClientReceiver/gwy.tcp://172.18.124.91:30000/189842048	172.18.124.93:0]	Starting AsyncAgent Messaging.GatewayClientReceiver/gwy.tcp://172.18.124.91:30000/189842048 on managed thread 34	
+[2016-01-07 06:11:27.209 GMT    33	INFO   	100000	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.91:30000/189842048	172.18.124.93:0]	Starting AsyncAgent Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://172.18.124.91:30000/189842048 on managed thread 33	
+[2016-01-07 06:11:43.308 GMT    30	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:10:43 AM	
+[2016-01-07 06:12:43.321 GMT    19	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:11:43 AM	
+[2016-01-07 06:13:43.342 GMT    38	INFO   	101309	Messaging.GatewayManager	172.18.124.93:0]	Refreshed the live GateWay list. Found 3 gateways from Gateway listProvider: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Picked only known live out of them. Now has 3 live Gateways: [gwy.tcp://172.18.124.91:30000/189842048, gwy.tcp://172.18.124.92:30000/189842224, gwy.tcp://172.18.124.93:30000/189842382]. Previous refresh time was = 1/7/2016 6:12:43 AM	
